@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Koliflix</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="intro"><div id="logo"></div></div>
+
+<div id="who" class="hide">
+  <h1>Who's watching?</h1>
+  <div id="pf" tabindex="0"><div class="av"><img id="pimg" alt=""></div><span id="pname"></span></div>
+</div>
+
+<div id="home" class="hide">
+  <nav id="nav">
+    <div class="l"><b class="brand" id="brand"></b><a>Home</a><a>TV Shows</a><a>New &amp; Popular</a><a>My List</a></div>
+    <div class="r"><div class="av sm"><img id="nimg" alt=""></div></div>
+  </nav>
+  <header id="hero">
+    <div class="shade"></div>
+    <div class="info">
+      <h2 id="htitle"></h2>
+      <p id="hmeta"></p>
+      <p id="hdesc"></p>
+      <div class="btns"><button class="btn w" id="hplay">&#9654; Play</button><button class="btn g" id="hinfo">&#9432; More Info</button></div>
+    </div>
+  </header>
+  <section id="rows"></section>
+  <footer>Made with love for <span id="fname"></span></footer>
+</div>
+
+<div id="modal" class="hide">
+  <div class="box">
+    <button id="mx">&times;</button>
+    <div class="mh" id="mh"><div class="shade"></div>
+      <div class="info"><h2 id="mtitle"></h2><div class="btns"><button class="btn w" id="mplay">&#9654; Play</button></div></div>
+    </div>
+    <div class="mb">
+      <div class="two"><div><p id="mmeta" class="meta"></p><p id="mdesc"></p></div><div class="side"><p id="mgen"></p></div></div>
+      <h3>Episodes</h3><div id="eps"></div>
+    </div>
+  </div>
+</div>
+
+<div id="player" class="hide">
+  <button id="px">&larr; Back</button>
+  <div id="pt"></div>
+  <video id="v" controls playsinline></video>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

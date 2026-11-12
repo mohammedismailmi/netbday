@@ -65,7 +65,7 @@ export const BIRTHDAY_CONFIG = {
         id: 2,
         number: 2,
         title: "THE LIFE DIARIES", // <-- Edit Episode 2 Title here
-        duration: "1m 30s",
+        duration: "3m 50s",
         description:
           "Behind every picture is a story, behind every laugh is a memory, and behind every moment is a little piece of her. A collection of the people, places, and memories that make life beautiful — and a reminder that she is loved more than she knows.", // <-- Edit description
         src: "media/ep2.mp4", // Video file in public/media/ep2.mp4
@@ -76,7 +76,7 @@ export const BIRTHDAY_CONFIG = {
         id: 3,
         number: 3,
         title: "CERTIFIED PAGAL", // <-- Edit Episode 3 Title here
-        duration: "10m",
+        duration: "1m 30s",
         description:
           "Normal was never really an option. From questionable expressions to legendary nonsense, this is the unfiltered, unpredictable, absolutely lovable side of Rakshitha. Handle with care. Laughter guaranteed.", // <-- Edit description
         src: "media/ep3.mp4", // Video file in public/media/ep3.mp4

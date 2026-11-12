@@ -2,7 +2,7 @@
 const C = {
   brand: "KOLIFLIX",
   name: "Rakshitha",
-  pic: "media/profile.jpg",        // her photo
+  pic: "media/koli_pic.png",        // her photo
   show: {
     title: "Koli's Life",           // series title (change anytime)
     year: 2026,

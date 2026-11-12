@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b080c"/>
+      <stop offset="50%" stop-color="#190204"/>
+      <stop offset="100%" stop-color="#0a0102"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="60%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#e50914" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#e50914" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <circle cx="780" cy="320" r="380" fill="url(#glow)"/>
+  <text x="640" y="320" fill="#ffffff" font-family="-apple-system, Montserrat, sans-serif" font-weight="900" font-size="76" text-anchor="middle" letter-spacing="2">KOLI'S LIFE</text>
+  <text x="640" y="380" fill="#ffd700" font-family="-apple-system, Montserrat, sans-serif" font-weight="700" font-size="28" text-anchor="middle" letter-spacing="4">★ BIRTHDAY ORIGINAL SPECIAL ★</text>
+  <text x="640" y="440" fill="#a3a3a3" font-family="-apple-system, Montserrat, sans-serif" font-weight="500" font-size="20" text-anchor="middle">Replace with your media/banner.jpg</text>
+</svg>

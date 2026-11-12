@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+  <defs>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141e30"/>
+      <stop offset="100%" stop-color="#243b55"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g2)"/>
+  <circle cx="320" cy="180" r="140" fill="#ffffff" fill-opacity="0.08"/>
+  <text x="320" y="160" fill="#ffffff" font-family="-apple-system, Montserrat, sans-serif" font-weight="800" font-size="34" text-anchor="middle">EPISODE 2</text>
+  <text x="320" y="200" fill="#ffd700" font-family="-apple-system, Montserrat, sans-serif" font-weight="600" font-size="18" text-anchor="middle">Queen of Chaos & Good Times</text>
+  <text x="320" y="240" fill="#e5e5e5" font-family="-apple-system, Montserrat, sans-serif" font-size="13" text-anchor="middle">public/media/ep2.jpg</text>
+</svg>

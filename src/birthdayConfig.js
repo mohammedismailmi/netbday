@@ -34,7 +34,7 @@ export const BIRTHDAY_CONFIG = {
     matchPercentage: "369% Match",
     seasons: "21 Seasons",
     qualityBadge: "Ultra HD 4K",
-    soundBadge: "Dolby Atmos",
+    soundBadge: "Pooper Atmos",
     genres: ["Heartwarming", "Comedy", "Adventure", "Best Friend Ever"],
 
     // Overview description displayed on hero billboard and details modal
